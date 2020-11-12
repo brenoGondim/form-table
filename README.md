@@ -1,7 +1,5 @@
 # form-table
 
-Devenvolvedor: Breno Gondim Nascimento
-
 BackEnd:
 	https://form-table.herokuapp.com/
 	https://form-table.herokuapp.com/swagger-ui.html
